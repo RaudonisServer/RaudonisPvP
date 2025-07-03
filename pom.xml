@@ -17,6 +17,7 @@
     </properties>
 
     <build>
+        <directory>C:\Users\melch\Documents\Coding\Paper\plugins</directory>
         <defaultGoal>clean package</defaultGoal>
         <plugins>
             <plugin>
